@@ -1,0 +1,13 @@
+.main{
+    width: 400px;
+    padding-top: 200px;
+    margin: 0 auto;
+}
+.div{
+    width: 200px;
+    height: 170px;
+    background-color: aquamarine;
+}
+p{
+    margin-top: 30px;
+}
